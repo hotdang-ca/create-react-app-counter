@@ -13,7 +13,7 @@ React requires npm, the node package manager, and node. We can install all of th
 From their site:
 
 ```bash
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bashcurl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
 ```
 
 Once you have this, time to get a node version. I recommend the latest Long-Term Support release.
